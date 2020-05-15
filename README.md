@@ -1,6 +1,7 @@
 # Data-Busters-DataFest-2020
 
 Data Busters
+
 Grace Bruess: gbruess@lion.lmu.edu
 Jacob Laubach: jlaubach@lion.lmu.edu
 Elena Martinez: emarti78@lion.lmu.edu
