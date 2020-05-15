@@ -1,5 +1,12 @@
 # Data-Busters-DataFest-2020
 
+Data Busters
+Grace Bruess: gbruess@lion.lmu.edu
+Jacob Laubach: jlaubach@lion.lmu.edu
+Elena Martinez: emarti78@lion.lmu.edu
+Kendall Mata: kmata1@lion.lmu.edu
+Jack Mauro: jmauro1@lion.lmu.edu
+
 This repository contains two files
 
 The file "NYC Homeless People Data" contains code that sorts the Department Services Data on individuals facing homelessness 
